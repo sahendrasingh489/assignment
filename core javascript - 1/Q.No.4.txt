@@ -1,0 +1,11 @@
+// Answer to describe (,) 'comma'.
+
+In JavaScript, the comma operator (,) is used to evaluate multiple expressions in a single
+ statement, returning the result of the last expression. Each expression is evaluated from 
+ left to right, but only the result of the last expression is returned.
+
+ Example:- 
+ 
+ let x = (2 + 3, 4 + 5);
+    
+    console.log(x);               // Output: 9

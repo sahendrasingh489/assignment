@@ -1,0 +1,17 @@
+A file-based storage system stores data in files on a file system. Each file is 
+treated as a discrete entity, and data is typically organized in a structured format, 
+such as CSV, XML, or JSON.
+
+
+Challenges of File-Based Storage System:
+
+1.  Data Redundancy: The same data might be stored in multiple files, leading to 
+    redundancy and inconsistency.
+2.  Data Integrity: Ensuring data accuracy and consistency across multiple files is
+    difficult without built-in mechanisms.
+3.  Scalability: As the volume of data grows, managing and accessing files efficiently 
+    becomes challenging.
+4.  Concurrent Access: Handling simultaneous access by multiple users or processes can 
+    lead to conflicts and data corruption.
+5.  Complex Queries: Performing complex queries or joining data across multiple files is
+    cumbersome and inefficient.

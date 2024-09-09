@@ -1,0 +1,23 @@
+//  Three Schema Architecture :-
+
+1.  Internal Schema: Describes the physical storage of data on the hardware. 
+    It details how data is stored and managed in terms of physical structures, 
+    such as files and indexes.
+
+2.  Conceptual Schema: Represents the logical view of the entire database, focusing on 
+    the structure and relationships between data without considering the physical storage. 
+    It provides a unified view of the database.
+
+3.  External Schema: Defines how data is viewed and accessed by different users or 
+    applications. It includes user views and access control.
+
+//Advantages:
+
+1.  Data Abstraction: Separates the physical storage from the logical structure, 
+    allowing changes to be made to one layer without affecting others.
+
+2.  Data Independence: Provides logical and physical data independence, meaning changes 
+    in storage structures do not impact the application or data model.
+
+3.  Security and Access Control: Allows different views and access controls for different 
+    users, enhancing security and user-specific data access.

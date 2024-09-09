@@ -1,0 +1,12 @@
+A database is a structured collection of data that is stored and managed electronically.
+ Databases are designed to handle large amounts of information efficiently and allow for
+  various operations such as querying, updating, and managing data. They enable users to
+   store, retrieve, and manipulate data in an organized manner.
+
+
+Example of Need for a Database:
+
+Imagine a library system that needs to manage information about books, members,
+ and transactions. Without a database, you might use simple spreadsheets or physical 
+ files. However, this approach would be inefficient for handling large volumes of data, 
+ performing complex queries, or maintaining data integrity.

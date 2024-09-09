@@ -1,0 +1,19 @@
+//Significance of Data Modelling :-
+
+Data Modelling is the process of defining the structure, relationships, and constraints 
+of data within a database. It helps in organizing data efficiently and ensures that 
+the database design meets the requirements of the application.
+
+//Types of Data Modelling:
+
+1.  Conceptual Data Model: Focuses on the high-level organization of data, 
+    including entities, relationships, and constraints, without considering 
+    implementation details. Example: Entity-Relationship (ER) diagram.
+
+2.  Logical Data Model: Provides a more detailed view of the data structure, including 
+    data types, relationships, and constraints. It is independent of the DBMS and focuses 
+    on how data is organized. Example: Relational schema.
+
+3.  Physical Data Model: Describes how data is stored and accessed in the database, 
+    including details about indexing, storage structures, and performance optimization. 
+    Example: Index structures and partitioning.

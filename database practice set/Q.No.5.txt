@@ -1,0 +1,20 @@
+//Types of Classification in DBMS
+
+1.  Hierarchical Database Model: Data is organized in a tree-like structure with 
+    parent-child relationships. Examples include early database systems like IBM's 
+    Information Management System (IMS).
+
+2.  Network Database Model: Data is represented as a graph with multiple relationships 
+    between records. Examples include Integrated Data Store (IDS).
+
+3.  Relational Database Model: Data is organized into tables (relations) with rows and 
+    columns. Relationships are established using foreign keys. Examples include MySQL, 
+    PostgreSQL, and Oracle.
+
+4.  Object-Oriented Database Model: Data is represented as objects, similar to 
+    object-oriented programming concepts. Examples include ObjectDB and db4o.
+
+5.  NoSQL Database Models: Includes various types such as document-based (MongoDB), 
+    key-value stores (Redis), column-family stores (Cassandra), and graph databases (Neo4j). 
+    These models are designed to handle unstructured or semi-structured data and scale 
+    horizontally.

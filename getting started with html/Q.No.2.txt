@@ -1,0 +1,10 @@
+/// purpose of Comment in HTML :-
+
+        Comments in HTML are used to leave notes, explanations, or reminders in the code 
+        that are not displayed in the web browser. 
+        
+        They are useful for developers to:
+                //  Clarify sections of code for themselves or others.
+                //  Temporarily disable sections of code without deleting it.
+                //  Provide instructions or describe the purpose of specific elements.
+    

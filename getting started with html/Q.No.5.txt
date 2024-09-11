@@ -1,0 +1,14 @@
+<!--    DOCTYPE  declaration  -->
+
+    The <!DOCTYPE> declaration in HTML is used to specify the version of HTML 
+    that the document is written in. It helps the web browser understand how to 
+    render the content of the page correctly.
+
+//Purpose
+
+1.  Compatibility: Ensures that the browser renders the page according to the 
+    rules of the specified HTML version.
+    
+2.  Standards Mode: Triggers standards mode in modern browsers, which ensures
+     that the page is rendered using the HTML and CSS standards rather than in 
+     "quirks mode" (which emulates older, non-standard behavior).

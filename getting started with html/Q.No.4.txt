@@ -1,0 +1,17 @@
+//Tags and Elements in HTML:-
+
+    In HTML (HyperText Markup Language), tags are used to define the structure 
+    and presentation of content on the web. An element consists of the opening 
+    tag, content (if any), and the closing tag (or sometimes it is self-closing).
+
+//Tag:  
+    A tag is a keyword enclosed in angle brackets (<>) that tells the browser 
+    how to display content.
+
+//Element: 
+    An element is a combination of the opening tag, content, and the closing 
+    tag (if applicable). The element defines a specific structure or content 
+    block on a webpage.
+
+    // Example: 
+            <p>This is a paragraph element.</p>

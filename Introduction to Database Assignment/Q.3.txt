@@ -1,0 +1,20 @@
+// DBMS:-
+    
+        A Database Management System (DBMS) is software that provides an interface
+         to manage databases. It allows users to create, read, update, and delete data 
+         in a structured and efficient manner.
+
+// Need for DBMS:
+
+1.  Data Management: DBMS provides tools for handling large amounts of data efficiently.
+
+2.  Data Security: It includes access controls to ensure that only authorized users can 
+    access or modify the data.
+
+3.  Data Integrity: DBMS enforces rules and constraints to maintain data accuracy.
+
+4.  Data Redundancy Reduction: DBMS helps in minimizing data duplication through 
+    normalization.
+    
+5.  Backup and Recovery: It provides mechanisms to back up data and recover it in case of 
+    failures.

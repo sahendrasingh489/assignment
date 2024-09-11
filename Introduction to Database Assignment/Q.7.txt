@@ -1,0 +1,21 @@
+//Schema Architecture :-
+
+1.Single Schema: All data and metadata are stored in a single schema, which is accessed 
+    directly by the applications.
+
+Advantages: Simple to manage and understand.
+Disadvantages: Limited flexibility and scalability.
+
+2.Two-Tier Architecture: Divides the database into two schemas, typically separating 
+    the user interface from the database.
+
+Advantages: Improved scalability and easier management of data and applications.
+Disadvantages: Can be complex to manage and requires coordination between layers.
+
+3.Three-Tier Architecture: Involves three layers: the presentation layer (user interface), 
+    the application layer (business logic), and the data layer (database).
+
+Advantages: Provides clear separation of concerns, enhancing scalability, maintainability, 
+            and security.
+Disadvantages: More complex to implement and manage, requiring careful design and 
+                coordination.

@@ -1,0 +1,16 @@
+//Challenges of File-Based Storage System Tackled by DBMS:-
+
+1.  Data Redundancy: DBMS uses normalization techniques to eliminate data redundancy and 
+    ensure data is stored only once.
+
+2.  Data Integrity: DBMS enforces constraints and rules (like primary keys, foreign keys) 
+        to maintain data consistency and accuracy.
+
+3.  Scalability: DBMS can handle large volumes of data and provide efficient querying 
+    capabilities.
+
+4.  Security: DBMS offers robust access control mechanisms to protect data from unauthorized 
+    access.
+
+5.  Concurrent Access: DBMS supports concurrent data access by multiple users while ensuring 
+    data consistency through transaction management.
